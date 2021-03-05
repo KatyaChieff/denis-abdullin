@@ -3,8 +3,8 @@
 ---
 
 ## Using
-+ HTML5
-+ CSS#
++ HTML
++ CSS
 + Bootstrap 3
 + jQuery
 ---
